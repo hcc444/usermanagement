@@ -1,0 +1,9 @@
+http://localhost:8080/users/1/menus
+[
+  {
+    "name": "Menu1"
+  },
+  {
+    "name": "Menu2"
+  }
+]

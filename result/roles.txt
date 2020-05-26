@@ -1,0 +1,33 @@
+http://localhost:8080/roles
+[
+  {
+    "id": 1,
+    "name": "Role1",
+    "menuList": [
+      {
+        "name": "Menu1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Role2",
+    "menuList": [
+      {
+        "name": "Menu2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Role3",
+    "menuList": [
+      {
+        "name": "Menu1"
+      },
+      {
+        "name": "Menu3"
+      }
+    ]
+  }
+]

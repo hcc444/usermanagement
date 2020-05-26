@@ -15,4 +15,6 @@ er-Model [Link](https://github.com/hcc444/usermanagement/blob/master/er-model.jp
 由帳號查出所擁有的清單
 /users/{user id}/menus
 
-相關截圖放在 screenshots 下面 [Link](https://github.com/hcc444/usermanagement/tree/master/screenshots)
+相關查詢結果放在 result 下面 [Link](https://github.com/hcc444/usermanagement/tree/master/result)
+
+所使用設計模式: MVC

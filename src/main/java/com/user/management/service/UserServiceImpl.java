@@ -32,7 +32,6 @@ public class UserServiceImpl implements UserService {
         Optional<Role> role = roleRepository.findByName(name);
         if (role.isEmpty())
             return null;
-        System.out.println("12323"+ role.get().getName());
         return userRepository.findAllByRoleList(role.get());
     }
 
